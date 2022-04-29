@@ -25,8 +25,8 @@ print(bmi(a,b))
 ---
 
 
-#Special Thanks 
----
--[Fayas](https://github.com/FayasNoushad)
--[Lokaman](https://github.com/lntechnical2)
+## Special Thanks
+
+[Fayas Noushad](https://github.com/FayasNoushad) & [Lokaman](https://github.com/lntechnical2) For Helping Me
+
 ---
