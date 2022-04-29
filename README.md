@@ -8,14 +8,14 @@ pip install Py-bmi
 
 ### Usage
 ```py
-import py_bmi
+from py_bmi import bmi
 ```
 
 ### Example of using
 ```py
 from py_bmi import bmi
-a = 85
-b = 1.4
+Weight = 85
+Height = 1.4
 print(bmi(a,b))
 # >> OH.. Noo.. You are Obesity
 #The First Variable Must Be Weight In Kilograms 
