@@ -16,7 +16,7 @@ from py_bmi import bmi
 from py_bmi import bmi
 weight = 85
 height = 1.4
-print(bmi(a,b))
+print(bmi(weight,height))
 # >> OH.. Noo.. You are Obesity
 #The First Variable Must Be Weight In Kilograms 
 #The Second Variable Must Be Height In Meters 
