@@ -19,8 +19,8 @@ def readme(file="README.md"):
 
 
 setuptools.setup(
-    name="Py-bmi-calculator",
-    version="v1.0.4",
+    name="Py_bmi",
+    version="v1.0.5",
     description="A Python module for Checking your bmi",
     long_description=readme(),
     long_description_content_type="text/markdown",
@@ -34,8 +34,7 @@ setuptools.setup(
         "Operating System :: OS Independent"
     ],
     project_urls={
-        "Tracker": "https://github.com/M-fazin/Py-bmi-calculator/issues",
-        "Source": "https://github.com/M-fazin/Py-bmi-calculator"
+        "Source": "https://github.com/M-fazin/Py_bmi"
     },
     python_requires=">=3.6",
     py_modules=['py_bmi'],
