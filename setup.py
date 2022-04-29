@@ -38,7 +38,7 @@ setuptools.setup(
         "Source": "https://github.com/M-fazin/Py-bmi-calculator"
     },
     python_requires=">=3.6",
-    py_modules=['py_bmi_calculator'],
+    py_modules=['py_bmi'],
     packages=setuptools.find_packages(),
     zip_safe=False,
     install_requires=requirements()
