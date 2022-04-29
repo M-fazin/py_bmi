@@ -20,7 +20,7 @@ def readme(file="README.md"):
 
 setuptools.setup(
     name="Py-bmi-calculator",
-    version="v1.0.2",
+    version="v1.0.4",
     description="A Python module for Checking your bmi",
     long_description=readme(),
     long_description_content_type="text/markdown",
