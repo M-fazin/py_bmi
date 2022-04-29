@@ -18,4 +18,6 @@ weight = 120
 height = 1.2
 print(py_bmi.bmi(height,weight))
 # >> Obesity
+#The First Variable Must Be Weight In Kilograms 
+#The Second Variable Must Be Height In Meters 
 ```
