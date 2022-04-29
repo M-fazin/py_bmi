@@ -11,10 +11,11 @@ pip install Py-bmi
 import py_bmi
 ```
 
-### Example
+### Example of using
 ```py
 import py_bmi
 weight = 120
 height = 1.2
 print(py_bmi.bmi(height,weight))
+# >> Obesity
 ```
