@@ -20,4 +20,12 @@ print(bmi(a,b))
 # >> Obesity
 #The First Variable Must Be Weight In Kilograms 
 #The Second Variable Must Be Height In Meters 
+#Both Are Must Be Intergers 
 ```
+
+
+
+###Special Thanks 
+-[Fayas](https://github.com/FayasNoushad)
+-[Lokaman](https://github.com/lntechnical2)
+---
