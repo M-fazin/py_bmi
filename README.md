@@ -22,10 +22,10 @@ print(bmi(a,b))
 #The Second Variable Must Be Height In Meters 
 #Both Are Must Be Intergers 
 ```
+---
 
 
-
-###Special Thanks 
+##Special Thanks 
 ---
 -[Fayas](https://github.com/FayasNoushad)
 -[Lokaman](https://github.com/lntechnical2)
