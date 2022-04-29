@@ -13,10 +13,10 @@ import py_bmi
 
 ### Example of using
 ```py
-import py_bmi
-weight = 120
-height = 1.2
-print(py_bmi.bmi(height,weight))
+from py_bmi import bmi
+a = 85
+b = 1.4
+print(bmi(a,b))
 # >> Obesity
 #The First Variable Must Be Weight In Kilograms 
 #The Second Variable Must Be Height In Meters 
